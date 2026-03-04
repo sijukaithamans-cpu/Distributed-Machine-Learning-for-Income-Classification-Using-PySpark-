@@ -1,0 +1,2 @@
+data_fraction,train_rows,train_eval_seconds,auc
+0.1,1245686,66.56021189689636,0.9059584881018778
